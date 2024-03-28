@@ -1,0 +1,6 @@
+musik/nggyu.mp3,audio,30,genre=pop,author=Rick Astley,fun
+dokumente/Abschlussaufgabe1,program,5,author=me
+dokumente/Abschlussaufgabe2,program,14,author=me,fun
+dokumente/MyMemes.txt,text,7,author=various,fun
+video/Familienfeier.mpg,video,4,author=me
+bilder/Oma.jpg,image,1,family
