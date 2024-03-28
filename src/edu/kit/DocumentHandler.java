@@ -158,7 +158,6 @@ public final class DocumentHandler {
             case IMAGE -> new ImageDocument(path, tags, uses);
             case VIDEO -> new VideoDocument(path, tags, uses);
             case PROGRAM -> new ProgramDocument(path, tags, uses);
-            default -> null;
         };
     }
 

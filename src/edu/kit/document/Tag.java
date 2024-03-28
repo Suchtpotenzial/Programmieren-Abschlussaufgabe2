@@ -20,7 +20,7 @@ public class Tag {
     protected static final String TAG_REPRESENTATION_FORMAT = "%s=%s";
     protected static final String DEFINED_VALUE_REPRESENTATION = "defined";
     private final String identifier;
-    private String value;
+    private final String value;
 
     /**
      * Constructs a new Tag with the given identifier and value.
